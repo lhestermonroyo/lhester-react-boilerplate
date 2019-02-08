@@ -1,4 +1,4 @@
-# Lhester React Boilerplate
+# Lhester's React Boilerplate
 
 A ready to use react boilerplate. 
 
