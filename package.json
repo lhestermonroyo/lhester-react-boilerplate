@@ -1,7 +1,7 @@
 {
   "name": "lhester-react-boilerplate",
   "version": "1.0.0",
-  "description": "This is my very own react boilerplate to startup project developments.",
+  "description": "A ready to use react boilerplate.",
   "main": "index.js",
   "babel": {
     "presets": [
